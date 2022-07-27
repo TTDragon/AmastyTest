@@ -1,0 +1,17 @@
+{
+    "name": "test/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Amasty\\Trainee\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Chekavyj"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
